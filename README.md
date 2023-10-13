@@ -9,3 +9,5 @@ Released under the GPL.
 Here's an example of what it looks like:
 
 ![Warning banner](https://www.trustinsights.ai/wp-content/uploads/2023/10/2023-10-13_15-19-06.png)
+
+If you like this or find it useful, [come say hi and let us know.](https://www.trustinsights.ai?utm_source=github.com&utm_medium=referral&utm_campaign=wp-warning-banner)
